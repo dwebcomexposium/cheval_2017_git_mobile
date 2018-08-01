@@ -1,0 +1,29 @@
+.espace-pro #zone3 .quicklinks:nth-child(1) .ql-list .ql-item a:before {
+    content: "";
+    background-image: url(/theme/cheval_desktop/img/icons/icon-info.svg);
+    display: inline-block;
+    position: absolute;
+    height: 50px;
+    width: 35px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    -webkit-transform: translateY(-7px);
+    -ms-transform: translateY(-7px);
+    transform: translateY(-7px);
+    margin-left: 0px;
+}
+
+.espace-pro #zone3 .quicklinks:nth-child(1) .ql-list .ql-item span.txt-btn{
+padding-left:55px;	
+}
+
+.espace-pro #zone3 .quicklinks:nth-child(1) .ql-list .linkid235987:after{
+
+	position:absolute;
+	content:'La version mobile ne vous permet pas d’accéder à l’espace exposant';
+	margin-top:-25px;
+	font-size:10px;
+	color:#ffffff;
+	text-align:center;
+	padding-left:25px
+}
