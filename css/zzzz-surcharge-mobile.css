@@ -2076,7 +2076,7 @@ padding-top:10rem;
 .mod-catal .catal-ex-item.is-premium {
   border: 5px solid #ab0036;
   border-bottom: 5px solid #ab0036!important;
-  padding: 2rem!important;
+  padding: 1rem!important;
 }
 .mod-catal .catal-ex-item.is-premium .catal-ex-item-title a,
 .mod-catal .catal-ex-item.is-premium .catal-ex-item-title a:hover {
@@ -2087,10 +2087,10 @@ padding-top:10rem;
 }
 
 .mod-catal .catal-ex-item.is-top-premium {
-  padding: 3rem 1rem 1.5rem;
-  margin-bottom: 1rem;
+  padding: 3rem 1rem 1.5rem!important;
+  margin-bottom: 1rem!important;
   background: white;
-  border: 5px solid #ab0036;
+  border: 5px solid #ab0036!important;
 }
 
 .mod-catal .catal-ex-item.is-top-premium .catal-ex-item-tag-premium {
