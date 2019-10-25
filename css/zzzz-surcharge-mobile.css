@@ -2074,12 +2074,26 @@ body.longines .site-wrapper::before{
 padding-top:10rem;
 }
 .mod-catal .catal-ex-item.is-premium {
-  border: 6px solid #ab0036;
-  padding: 2rem;
+  border: 5px solid #ab0036;
+  border-bottom: 5px solid #ab0036!important;
+  padding: 2rem!important;
 }
+.mod-catal .catal-ex-item.is-premium .catal-ex-item-title a,
 .mod-catal .catal-ex-item.is-premium .catal-ex-item-title a:hover {
   color: #ab0036;
 }
 .mod-catal .catal-ex-item-stand-item .icon-catal {
   color: #b10a31;
+}
+
+.mod-catal .catal-ex-item.is-top-premium {
+  padding: 3rem 1rem 1.5rem;
+  margin-bottom: 1rem;
+  background: white;
+  border: 5px solid #ab0036;
+}
+
+.mod-catal .catal-ex-item.is-top-premium .catal-ex-item-tag-premium {
+  background-color: #ab0036;
+  color: white;
 }
